@@ -1,0 +1,10 @@
+CS2,0
+Minecraft,100.00
+FIFA 24,249.99
+GTA V,50.00
+The Witcher 3,59.99
+Cyberpunk 2077,199.99
+Elden Ring,299.99
+Red Dead Redemption 2,179.99
+Hollow Knight,39.99
+Stardew Valley,24.99
